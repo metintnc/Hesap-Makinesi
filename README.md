@@ -12,3 +12,5 @@ Istenilen hesaplama işlemleri:
 
 Bir Özet Butonu olsun. Kullanıcının tüm girdi ve işlemlerini kaydedip, butona
 basıldığında ekrana yazsın.
+
+"Bilgisayar Mühendisliği 1.sınıf C# dilinde 4.ödev"
